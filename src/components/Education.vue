@@ -25,7 +25,7 @@
           <h3><i class="fas fa-tools"></i> Habilidades Técnicas</h3>
           <div class="skills-list">
             <div class="skill-item" v-for="(skill, index) in technicalSkills" :key="'tech-' + index">
-              <img :src="`/src/assets/icons/${skill.icon}`" alt="Icono" class="skill-icon" />
+              <img :src="`/src/assets/icons/${skill}`" alt="Icono" class="skill-icon" />
               <span>{{ skill.name }}</span>
             </div>
           </div>
@@ -34,7 +34,7 @@
           <h3><i class="fas fa-user-friends"></i> Habilidades Blandas</h3>
           <div class="skills-list">
             <div class="skill-item" v-for="(skill, index) in softSkills" :key="'soft-' + index">
-              <img :src="`/src/assets/icons/${skill.icon}`" alt="Icono" class="skill-icon" />
+              <img :src="`/src/assets/icons/${skill}`" alt="Icono" class="skill-icon" />
               <span>{{ skill.name }}</span>
             </div>
           </div>
