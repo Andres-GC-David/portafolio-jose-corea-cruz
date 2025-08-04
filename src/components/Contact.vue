@@ -21,7 +21,7 @@
           </div>
 
           <div class="info-item">
-            <img src="../assets/linkedIn.png" alt="LinkedIn" class="icon" />
+            <img src="../assets/LinkedIn.png" alt="LinkedIn" class="icon" />
             <a href="https://www.linkedin.com/in/jose-cruz-89b21327a/" target="_blank">LinkedIn</a>
           </div>
         </div>
