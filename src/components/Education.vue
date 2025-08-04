@@ -12,7 +12,7 @@
             <p class="institution">Universidad Latina de Costa Rica</p>
             <p class="date">2022 - Presente</p>
             <p class="description">
-              Actualmente cursando el programa de Bachillerato en Arquitectura, con enfoque en diseño,
+              Actualmente cursando el programa de Licenciatura en Arquitectura, con enfoque en diseño,
               procesos creativos y comprensión del entorno urbano.
             </p>
           </div>
@@ -56,6 +56,9 @@ export default {
         { name: "Revit STR", icon: "revit-ARQ-icon.png" },
         { name: "Excel", icon: "excel-icon.png" },
         { name: "Procore", icon: "procore-icon.png" },
+        { name: "Lumion", icon: "lumion.png" },
+        { name: "V-Ray", icon: "V-Ray.png" },
+        { name: "Paquete Básico Adobe", icon: "adobe.png" },
       ],
       softSkills: [
         { name: "Comunicación efectiva con clientes", icon: "cliente.png" },

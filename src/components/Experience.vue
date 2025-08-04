@@ -53,7 +53,7 @@ export default {
         {
           title: "Supervisor de Remodelaciones",
           company: "Arconsa Constructora - Hotel Andaz",
-          period: "2024",
+          period: "2025",
           icon: "remodel.png",
           details: [
             "Supervisión de múltiples frentes en remodelaciones.",
@@ -64,7 +64,7 @@ export default {
         },
         {
           title: "Control de Planillas",
-          company: "Hotel Andaz",
+          company: "Arconsa Constructora",
           period: "2025 - Actual",
           icon: "planillas.png",
           details: [
