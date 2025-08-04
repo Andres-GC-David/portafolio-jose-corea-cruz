@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Plano As Built - Instalación de Piscinas",
+    "description": "Planos As Built de la instalación de piscinas.",
+    "client": "Hotel Ritz Carlton",
+    "pdf": "/assets/projects/MEP-RESIDENCIA-13.pdf",
+    "image": "/assets/imagen1.png",
+    "tags": ["as built", "piscinas", "hotel", "ritz carlton"]
+  },
+  {
+    "name": "Muebles de Hotel",
+    "description": "Muebles diseñados e instalados para hotel.",
+    "client": "Hotel Andaz",
+    "pdf": "/assets/projects/ASB-25-RIO-BHONHO-RECORD-CORNER-CABINET.pdf",
+    "image": "/assets/imagen1.png",
+    "tags": ["mobiliario", "hotel", "andaz"]
+  },
+  {
+    "name": "Plano As Built - Río Bhongo Fase 1",
+    "description": "Planos As Built de la Fase 1 del restaurante Río Bhongo.",
+    "client": "Hotel Andaz",
+    "pdf": "/assets/projects/ASB-25-RIO BHONGO-FASE-1.pdf",
+    "image": "/assets/imagen1.png",
+    "tags": ["as built", "restaurante", "hotel", "andaz"]
+  },
+  {
+    "name": "Plano As Built - Río Bhongo (Mueble de Café)",
+    "description": "Planos As Built para el mueble de café en el restaurante Río Bhongo, incluyendo detalles de acabados.",
+    "client": "Hotel Andaz",
+    "pdf": "/assets/projects/ASB-25-RIO BHONHO- (BACK COFFE).pdf",
+    "image": "/assets/imagen1.png",
+    "tags": ["as built", "restaurante", "muebles", "café", "andaz", "peninsula de papagayo", "costa rica"]
+  },
+  {
+    "name": "Plano As Built - Instalación MEP Río Bhongo",
+    "description": "Planos As Built de la instalación mecánica, eléctrica y pluvial (MEP) del restaurante Río Bhongo.",
+    "client": "Hotel Andaz",
+    "pdf": "/assets/projects/ASB-MEP-RIO-BHONGO-FASE-1.pdf",
+    "image": "/assets/imagen1.png",
+    "tags": ["as built", "mep", "restaurante", "andaz"]
+  },
+  {
+    "name": "Plano As Built - Río Bhongo (Estantes de Exhibición)",
+    "description": "Planos As Built de estantes de exhibición para el restaurante Río Bhongo, incluyendo detalles de la estructura y acabados.",
+    "client": "Hotel Andaz",
+    "pdf": "/assets/projects/ASB-25-RIO BHONHO- (display shelves) V2.pdf",
+    "image": "/assets/imagen1.png",
+    "tags": ["as built", "restaurante", "mobiliario", "estantes", "andaz", "exhibición"]
+  }
+]
